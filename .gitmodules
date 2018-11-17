@@ -1,0 +1,3 @@
+[submodule "Exercise/material-components-android-codelabs"]
+	path = Exercise/material-components-android-codelabs
+	url = https://github.com/material-components/material-components-android-codelabs
